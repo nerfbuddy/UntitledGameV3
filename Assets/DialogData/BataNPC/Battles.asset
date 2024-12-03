@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc92cc2f17423b2408e04324597c279e, type: 3}
+  m_Name: Battles
+  m_EditorClassIdentifier: 
+  dialogue:
+  - How do battles work in this game?
+  - This is a turn based game, but after you pick a move you will have to do that
+    moves minigame.
+  - Depending on how well you do in the minigame you will do more or less damage.
+  - If a move is red it is a normal move, if it is blue however, it will take 1 MP
+    to perform it.
+  - Oh, and if you touch an enemy in the overworld you will start a battle with it.
+  - Finally, when you beat certain enemies you may sometimes learn a new move.
+  - However Ian got lazy and chose to do that last part later. He is such a bum...
+  - Yeah he sure sounds like a bum!
+  icon:
+  - {fileID: 21300000, guid: 67fe7ed442c99574fb8d8f932f44b41c, type: 3}
+  - {fileID: 21300000, guid: ba82b46be4bb3c9459dc4179ad277eb1, type: 3}
+  - {fileID: 21300000, guid: ba82b46be4bb3c9459dc4179ad277eb1, type: 3}
+  - {fileID: 21300000, guid: ba82b46be4bb3c9459dc4179ad277eb1, type: 3}
+  - {fileID: 21300000, guid: ba82b46be4bb3c9459dc4179ad277eb1, type: 3}
+  - {fileID: 21300000, guid: ba82b46be4bb3c9459dc4179ad277eb1, type: 3}
+  - {fileID: 21300000, guid: ba82b46be4bb3c9459dc4179ad277eb1, type: 3}
+  - {fileID: 21300000, guid: 67fe7ed442c99574fb8d8f932f44b41c, type: 3}
+  responses: []

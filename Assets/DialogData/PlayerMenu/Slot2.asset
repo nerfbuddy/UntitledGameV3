@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc92cc2f17423b2408e04324597c279e, type: 3}
+  m_Name: Slot2
+  m_EditorClassIdentifier: 
+  dialogue:
+  - What move do you want in slot three?
+  icon:
+  - {fileID: 0}
+  responses:
+  - responseText: Quad Slash
+    dialogueObject: {fileID: 11400000, guid: b57ef4910d058a94d8d41cc2fbb20d25, type: 2}
+  - responseText: Light Slash
+    dialogueObject: {fileID: 11400000, guid: b57ef4910d058a94d8d41cc2fbb20d25, type: 2}
+  - responseText: Healing Melody
+    dialogueObject: {fileID: 11400000, guid: b57ef4910d058a94d8d41cc2fbb20d25, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc92cc2f17423b2408e04324597c279e, type: 3}
+  m_Name: Meaning of life
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Do you, by chance, know what the meaning of life is?
+  - I trust I the words of my buddy Sans for this one. He would always say "idk man"
+    and I live by that to this day.
+  icon:
+  - {fileID: 21300000, guid: 67fe7ed442c99574fb8d8f932f44b41c, type: 3}
+  - {fileID: 21300000, guid: ba82b46be4bb3c9459dc4179ad277eb1, type: 3}
+  responses: []
